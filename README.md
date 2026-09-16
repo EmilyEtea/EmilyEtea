@@ -61,7 +61,6 @@ $ git log --stat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmilyEtea&show_icons=true&theme=dark&bg_color=0b0e14&title_color=e8a33d&icon_color=5fb3b3&text_color=c9d1d9&border_color=232938&hide_border=false" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyEtea&theme=dark&background=0b0e14&stroke=232938&ring=e8a33d&fire=e8a33d&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7b8496&hide_border=false" alt="GitHub streak" height="165"/>
 
 </div>
