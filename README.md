@@ -13,17 +13,14 @@ University of Santo Tomas. I've spent the last couple of years moving
 between project management and hands-on development — leading small
 teams through the Agile SDLC while also shipping the code myself.
 
-Recent work: a campus security system using OCR + RFID, an HRIS payroll
-module, and a run of full-stack projects in React, Node.js, and SQL Server.
-
 ```
 $ ls projects/
 ```
 
 - **PECCI HRIS** — human resource information system · ASP.NET Core MVC (.NET 10), Entity Framework Core 9, SQL Server
 - **iVisit UST** — campus entry & security monitoring system · Java, React.js, OCR, RFID
+- - **Trash to Treasure** — waste management & upcycling platform · JavaScript, Node.js, MongoDB
 - **DOS Coffee Connect** — online coffee ordering platform · PHP, JavaScript, SQL
-- **Trash to Treasure** — waste management & upcycling platform · JavaScript, Node.js, MongoDB
 
 ```
 $ ls skills/
