@@ -20,6 +20,7 @@ module, and a run of full-stack projects in React, Node.js, and SQL Server.
 $ ls projects/
 ```
 
+- **PECCI HRIS** — human resource information system · ASP.NET Core MVC (.NET 10), Entity Framework Core 9, SQL Server
 - **iVisit UST** — campus entry & security monitoring system · Java, React.js, OCR, RFID
 - **DOS Coffee Connect** — online coffee ordering platform · PHP, JavaScript, SQL
 - **Trash to Treasure** — waste management & upcycling platform · JavaScript, Node.js, MongoDB
