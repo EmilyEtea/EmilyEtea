@@ -19,7 +19,7 @@ $ ls projects/
 
 - **PECCI HRIS** — human resource information system · ASP.NET Core MVC (.NET 10), Entity Framework Core 9, SQL Server
 - **iVisit UST** — campus entry & security monitoring system · Java, React.js, OCR, RFID
-- - **Trash to Treasure** — waste management & upcycling platform · JavaScript, Node.js, MongoDB
+- **Trash to Treasure** — waste management & upcycling platform · JavaScript, Node.js, MongoDB
 - **DOS Coffee Connect** — online coffee ordering platform · PHP, JavaScript, SQL
 
 ```
