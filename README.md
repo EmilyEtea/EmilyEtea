@@ -1,133 +1,115 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8A33D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Emily+Etea+%F0%9F%91%8B;BS+Information+Technology+%40+UST+'26;Web+%26+Mobile+Development;Project+Lead+%7C+Developer+%7C+IT+Support" alt="Typing SVG"/>
-
-<br>
  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8B4C8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Emily+Etea!+%F0%9F%91%8B;IT+Graduate+%7C+UST+'26;Project+Coordination+%26+Quality+Assurance;Systems+Support+%26+Web+Development" alt="Typing SVG"/>
+
+**IT Graduate | Project Coordination | Quality Assurance | Systems & Web Development**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BC9B2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emily-etea)
+[![Email](https://img.shields.io/badge/Email-Contact-E8B4C8?style=flat-square&logo=gmail&logoColor=white)](mailto:emilyetea@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-EmilyEtea-C1B5DC?style=flat-square&logo=github&logoColor=white)](https://github.com/EmilyEtea)
 
 </div>
 
 ---
 
-## `$ whoami`
+## About Me
 
-I'm **Emily Etea**, a **BS Information Technology graduate from the University of Santo Tomas**, specializing in Web and Mobile Development.
+I'm an **Information Technology graduate from the University of Santo Tomas**, majoring in Web and Mobile Development, with hands-on experience in enterprise systems support, software testing, and project coordination.
 
-My experience spans **project management, software development, and IT support**. I've led development teams through the Agile SDLC, worked with stakeholders to translate requirements into system features, and contributed hands-on to enterprise systems during my IT internship.
+My experience includes leading cross-functional teams, gathering stakeholder requirements, validating system functionality, and contributing to the development and deployment of technology-driven solutions.
 
-I'm interested in building practical technology-driven solutions while continuously expanding my technical skills.
-
-<div align="center">
-
-`IT Graduate` · `Web & Mobile Development` · `Project Leadership` · `IT Support`
-
-</div>
+I'm passionate about continuous learning, solving practical problems, and exploring opportunities across IT and technology.
 
 ---
 
-## `$ ./experience`
+## Experience
 
-### 🏢 PECCI Multipurpose Cooperative
+### IT Support Intern | PECCI Multipurpose Cooperative
+`February 2026 – June 2026` · Makati City, Philippines
 
-**IT Support Intern · Project Lead**
-`February 2026 — June 2026`
-
-* Provided technical support by troubleshooting hardware, software, and system-related issues.
-* Led a **five-member internship team** working on HRIS enhancements.
-* Developed and tested features for the **HRIS Payroll Module** using C#, React/JavaScript, and Microsoft SQL Server.
-* Worked with stakeholders to gather requirements and validate system functionality.
-* Produced technical documentation and supported deployment and maintenance.
+- Led a five-member team in developing HRIS Payroll Module features over four months.
+- Developed and tested system features using **C#, React/JavaScript, and Microsoft SQL Server**.
+- Gathered requirements from stakeholders and translated business needs into system improvements.
+- Conducted structured testing and supported implementation, documentation, and maintenance.
+- Provided technical support and troubleshooting for hardware, software, and system-related issues.
 
 ---
 
-## `$ ls projects/`
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 iVisit UST
+### 🔎 iVisit UST
 
 **Campus Entry & Security Monitoring System**
 
-`2025 — 2026` · **Project Manager & QA**
+`2025 – 2026` · Project Manager & QA
 
-<img src="https://img.shields.io/badge/Java-0b0e14?style=flat-square&logo=openjdk&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/React.js-0b0e14?style=flat-square&logo=react&logoColor=5FB3B3"/>
-<img src="https://img.shields.io/badge/OCR-0b0e14?style=flat-square&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/RFID-0b0e14?style=flat-square&logoColor=c9d1d9"/>
+**Tech:** Java · React.js · OCR · RFID
 
-Capstone project developed with the UST Campus Safety & Security Office.
+A capstone project developed with the UST Campus Safety & Security Office.
 
-* Agile planning & sprint coordination
-* Stakeholder requirements
-* QA, testing & documentation
-* OCR & RFID integration
+- Coordinated project planning, Agile sprints, and team tasks.
+- Gathered and validated stakeholder requirements.
+- Conducted QA across **200+ test cases**.
+- Maintained testing documentation and supported system reliability.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧑‍💻 PECCI HRIS
+### 🏢 PECCI HRIS
 
 **HRIS Payroll Module**
 
-`2026` · **Project Lead & Developer**
+`2026` · Project Lead & Developer
 
-<img src="https://img.shields.io/badge/C%23-0b0e14?style=flat-square&logo=csharp&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/React-0b0e14?style=flat-square&logo=react&logoColor=5FB3B3"/>
-<img src="https://img.shields.io/badge/SQL_Server-0b0e14?style=flat-square&logo=microsoftsqlserver&logoColor=5FB3B3"/>
+**Tech:** C# · React/JavaScript · SQL Server
 
-Enterprise system enhancement developed during my IT internship.
+Enterprise system enhancements developed during my IT internship.
 
-* Led a five-member team
-* Payroll module development
-* Requirements validation
-* Testing & deployment support
+- Led a five-member development team.
+- Translated business requirements into system features.
+- Developed and tested payroll module enhancements.
+- Supported deployment and maintenance.
 
 </td>
 </tr>
-
 <tr>
+<td width="50%" valign="top">
+
+### ☕ DOS Coffee Connect
+
+**Discover Delight Online**
+
+`2025` · Project Manager
+
+**Tech:** PHP · JavaScript · SQL · HTML/CSS
+
+A role-based café management web application built for a Software Engineering project.
+
+- Coordinated an eight-member team.
+- Translated business requirements into system features.
+- Managed planning, assignments, and milestones.
+- Oversaw testing, QA, and documentation.
+
+</td>
 <td width="50%" valign="top">
 
 ### ♻️ Trash to Treasure
 
 **Waste Management & Upcycling Platform**
 
-`2024` · **Developer**
+`2024` · Developer
 
-<img src="https://img.shields.io/badge/JavaScript-0b0e14?style=flat-square&logo=javascript&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/Node.js-0b0e14?style=flat-square&logo=node.js&logoColor=5FB3B3"/>
-<img src="https://img.shields.io/badge/MongoDB-0b0e14?style=flat-square&logo=mongodb&logoColor=5FB3B3"/>
+**Tech:** JavaScript · Node.js · MongoDB
 
-Web-based platform focused on waste management and upcycling.
+A web-based platform focused on waste management and upcycling.
 
-* Frontend & backend development
-* Database interactions
-* Backend services
-* Testing & debugging
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☕ DOS Coffee Connect
-
-**Role-based Café Management Web App**
-
-`2025` · **Project Manager**
-
-<img src="https://img.shields.io/badge/PHP-0b0e14?style=flat-square&logo=php&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/JavaScript-0b0e14?style=flat-square&logo=javascript&logoColor=E8A33D"/>
-<img src="https://img.shields.io/badge/SQL-0b0e14?style=flat-square&logo=postgresql&logoColor=5FB3B3"/>
-
-Software Engineering project developed as an online role-based café management.
-
-* Project planning & coordination
-* Business requirements
-* Testing & QA
-* System development
+- Developed frontend and backend features.
+- Designed database interactions and integrated backend services.
+- Performed system testing, debugging, and enhancements.
 
 </td>
 </tr>
@@ -135,64 +117,73 @@ Software Engineering project developed as an online role-based café management.
 
 ---
 
-## `$ cat tech-stack.txt`
+## Technical Skills
 
-<div align="center">
+**Languages & Frameworks**
 
-**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-9BC9B2?style=flat-square&logo=javascript&logoColor=26352D)
+![PHP](https://img.shields.io/badge/PHP-E8B4C8?style=flat-square&logo=php&logoColor=4B3040)
+![C#](https://img.shields.io/badge/C%23-C1B5DC?style=flat-square&logo=csharp&logoColor=38304B)
+![Java](https://img.shields.io/badge/Java-9BC9B2?style=flat-square&logo=openjdk&logoColor=26352D)
+![React](https://img.shields.io/badge/React-E8B4C8?style=flat-square&logo=react&logoColor=4B3040)
+![Node.js](https://img.shields.io/badge/Node.js-C1B5DC?style=flat-square&logo=nodedotjs&logoColor=38304B)
 
-<img src="https://skillicons.dev/icons?i=cs,java,js,php,mysql" alt="Languages"/>
+**Databases & APIs**
 
-<br>
+![SQL Server](https://img.shields.io/badge/SQL_Server-9BC9B2?style=flat-square&logo=microsoftsqlserver&logoColor=26352D)
+![MongoDB](https://img.shields.io/badge/MongoDB-E8B4C8?style=flat-square&logo=mongodb&logoColor=4B3040)
+![REST APIs](https://img.shields.io/badge/REST_APIs-C1B5DC?style=flat-square)
 
-**Frameworks & Technologies**
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" alt="Frameworks and Technologies"/>
+![Git](https://img.shields.io/badge/Git-9BC9B2?style=flat-square&logo=git&logoColor=26352D)
+![GitHub](https://img.shields.io/badge/GitHub-E8B4C8?style=flat-square&logo=github&logoColor=4B3040)
+![VS Code](https://img.shields.io/badge/VS_Code-C1B5DC?style=flat-square&logo=visualstudiocode&logoColor=38304B)
+![Figma](https://img.shields.io/badge/Figma-9BC9B2?style=flat-square&logo=figma&logoColor=26352D)
+![Postman](https://img.shields.io/badge/Postman-E8B4C8?style=flat-square&logo=postman&logoColor=4B3040)
+![Selenium](https://img.shields.io/badge/Selenium-C1B5DC?style=flat-square&logo=selenium&logoColor=38304B)
+![Jira](https://img.shields.io/badge/Jira-9BC9B2?style=flat-square&logo=jira&logoColor=26352D)
 
-<br>
+**Professional Skills**
 
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" alt="Tools"/>
-
-</div>
-
----
-
-## `$ cat certifications.log`
-
-|  Year  | Certification                                             | Issuer                    |
-| :----: | --------------------------------------------------------- | ------------------------- |
-| `2026` | **Data Streaming Engineer — Apache Flink®**               | Confluent, an IBM Company |
-| `2026` | **Data Streaming Engineer Foundations**                   | Confluent, an IBM Company |
-| `2026` | **Gemini Certified University Student**                   | Google for Education      |
-| `2025` | **CCNA: Enterprise Networking, Security, and Automation** | Cisco                     |
-| `2024` | **CCNA: Switching, Routing, and Wireless Essentials**     | Cisco                     |
+Requirements Gathering · System Testing · UAT · Technical Documentation · Agile/Scrum · Project Coordination · Stakeholder Communication
 
 ---
 
-## `$ git log --stats`
+## Certifications
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilyEtea&theme=dark&background=0b0e14&stroke=232938&ring=e8a33d&fire=e8a33d&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7b8496&hide_border=false" alt="GitHub streak" height="165"/>
-
-<br>
-
-</div>
+| Year | Certification | Issuer |
+|:---:|---|---|
+| 2026 | Data Streaming Engineer – Apache Flink | Confluent |
+| 2026 | Data Streaming Engineer Foundations | Confluent |
+| 2026 | Gemini Certified University Student | Google for Education |
+| 2025 | CCNA: Enterprise Networking, Security, and Automation | Cisco |
+| 2024 | CCNA: Switching, Routing, and Wireless Essentials | Cisco |
 
 ---
 
+## Beyond Tech
 
-## `echo $STATUS`
+**Leadership & Affiliations**
+
+- **President**, UST College of Information and Computing Sciences Class Officers (2025–2026)
+- **P.R.O.**, UST College of Information and Computing Sciences Class Officers (2023–2024)
+- **Secretary**, UST College of Information and Computing Sciences Class Officers (2022–2023)
+- Member and participant in various UST organizations and performing arts groups.
+
+---
 
 <div align="center">
 
-**🟢 Available for opportunities**
+### Let's Connect
 
-Entry-level opportunities in **IT, technology, development, and related roles**.
+**Open to entry-level opportunities in IT and technology.**
 
+[LinkedIn](https://linkedin.com/in/emily-etea) · [Email](mailto:emilyetea@hotmail.com) · [GitHub](https://github.com/EmilyEtea)
 
-<sub>Built with Markdown, curiosity, and a questionable number of tabs.</sub>
+<sub>Building, learning, and growing one project at a time.</sub>
 
 </div>
+
+
+
