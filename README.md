@@ -1,12 +1,13 @@
 <div align="center">
  
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8B4C8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Emily+Etea!+%F0%9F%91%8B;IT+Graduate+%7C+UST+'26;Project+Coordination+%26+Quality+Assurance;Systems+Support+%26+Web+Development" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8B4C8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Emily+Etea!+%F0%9F%91%8B;IT+Graduate+%7C+UST+'26;Project+Coordination;QA+%26+Documentation;Admin+%26+Operations;Web+Development" alt="Typing SVG"/>
 
-**IT Graduate | Project Coordination | Quality Assurance | Systems & Web Development**
+**IT Graduate | Project Coordination | QA & Documentation | Admin & Operations | Web Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BC9B2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emily-etea)
-[![Email](https://img.shields.io/badge/Email-Contact-E8B4C8?style=flat-square&logo=gmail&logoColor=white)](mailto:emilyetea@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-E8B4C8?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:emilyetea@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-EmilyEtea-C1B5DC?style=flat-square&logo=github&logoColor=white)](https://github.com/EmilyEtea)
+[![Portfolio](https://img.shields.io/badge/Portfolio-emilyetea.github.io-9BC9B2?style=flat-square&logo=githubpages&logoColor=white)](https://emilyetea.github.io)
 
 </div>
 
@@ -14,9 +15,9 @@
 
 ## About Me
 
-I'm an **Information Technology graduate from the University of Santo Tomas**, majoring in Web and Mobile Development, with hands-on experience in enterprise systems support, software testing, and project coordination.
+I'm an **Information Technology graduate from the University of Santo Tomas**, majoring in Web and Mobile Development (Dean's Lister, AY 2025–2026), with hands-on experience in enterprise systems support, software testing, and project coordination.
 
-My experience includes leading cross-functional teams, gathering stakeholder requirements, validating system functionality, and contributing to the development and deployment of technology-driven solutions.
+My experience includes leading project teams, gathering stakeholder requirements, validating system functionality, and contributing to the development and deployment of technology-driven solutions.
 
 I'm passionate about continuous learning, solving practical problems, and exploring opportunities across IT and technology.
 
@@ -27,11 +28,11 @@ I'm passionate about continuous learning, solving practical problems, and explor
 ### IT Support Intern | PECCI Multipurpose Cooperative
 `February 2026 – June 2026` · Makati City, Philippines
 
-- Led a five-member team in developing HRIS Payroll Module features over four months.
+- Project Lead of a four-member intern team that built an HRIS Payroll Module from scratch over four months.
 - Developed and tested system features using **C#, React/JavaScript, and Microsoft SQL Server**.
-- Gathered requirements from stakeholders and translated business needs into system improvements.
-- Conducted structured testing and supported implementation, documentation, and maintenance.
-- Provided technical support and troubleshooting for hardware, software, and system-related issues.
+- Gathered requirements from stakeholders and translated business needs into system features.
+- Conducted structured functional testing and supported implementation, documentation, and maintenance.
+- Provided end-user technical support and troubleshooting for hardware, software, and system-related issues.
 
 ---
 
@@ -67,11 +68,11 @@ A capstone project developed with the UST Campus Safety & Security Office.
 
 **Tech:** C# · React/JavaScript · SQL Server
 
-Enterprise system enhancements developed during my IT internship.
+A payroll module built from scratch during my IT internship (internal system, so sample public repo only).
 
-- Led a five-member development team.
+- Led a four-member intern team.
 - Translated business requirements into system features.
-- Developed and tested payroll module enhancements.
+- Developed and tested payroll module features.
 - Supported deployment and maintenance.
 
 </td>
@@ -115,6 +116,8 @@ A web-based platform focused on waste management and upcycling.
 </tr>
 </table>
 
+> 🔗 Demo links and screenshots coming soon.
+
 ---
 
 ## Technical Skills
@@ -146,7 +149,14 @@ A web-based platform focused on waste management and upcycling.
 
 **Professional Skills**
 
-Requirements Gathering · System Testing · UAT · Technical Documentation · Agile/Scrum · Project Coordination · Stakeholder Communication
+Requirements Gathering · Functional & System Testing · UAT · Technical Documentation · Agile/Scrum · Project Coordination · Stakeholder Communication
+
+---
+
+## Education
+
+**University of Santo Tomas** · BS Information Technology, Web and Mobile Development
+`August 2022 – June 2026` · Dean's Lister, AY 2025–2026
 
 ---
 
@@ -166,10 +176,10 @@ Requirements Gathering · System Testing · UAT · Technical Documentation · Ag
 
 **Leadership & Affiliations**
 
-- **President**, UST College of Information and Computing Sciences Class Officers (2025–2026)
-- **P.R.O.**, UST College of Information and Computing Sciences Class Officers (2023–2024)
-- **Secretary**, UST College of Information and Computing Sciences Class Officers (2022–2023)
-- Member and participant in various UST organizations and performing arts groups.
+- **Class President**, College of Information and Computing Sciences, UST (2025–2026)
+- **Class P.R.O.**, College of Information and Computing Sciences, UST (2023–2024)
+- **Class Secretary**, College of Information and Computing Sciences, UST (2022–2023)
+- Member: UST Golden Corps of Cadets · Bosconian Thomasian Youth Movement · Teatro Tomasino
 
 ---
 
@@ -179,11 +189,8 @@ Requirements Gathering · System Testing · UAT · Technical Documentation · Ag
 
 **Open to entry-level opportunities in IT and technology.**
 
-[LinkedIn](https://linkedin.com/in/emily-etea) · [Email](mailto:emilyetea@hotmail.com) · [GitHub](https://github.com/EmilyEtea)
+[LinkedIn](https://linkedin.com/in/emily-etea) · [Email](mailto:emilyetea@hotmail.com) · [GitHub](https://github.com/EmilyEtea) · [Portfolio](https://emilyetea.github.io)
 
 <sub>Building, learning, and growing one project at a time.</sub>
 
 </div>
-
-
-
