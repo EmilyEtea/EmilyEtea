@@ -1,6 +1,3 @@
-<!-- Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8B4C8,C1B5DC,9BC9B2&height=220&section=header&text=Emily%20Etea&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20Graduate%20%7C%20Builder%20%7C%20Learner&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8B4C8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Emily+Etea!+%F0%9F%91%8B;IT+Graduate+%7C+UST+'26;Project+Coordination;QA+%26+Documentation;Admin+%26+Operations;Web+Development" alt="Typing SVG"/>
@@ -211,4 +208,4 @@ Requirements Gathering · Functional & System Testing · UAT · Technical Docume
 </div>
 
 <!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9BC9B2,C1B5DC,E8B4C8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
