@@ -42,6 +42,25 @@ I'm passionate about continuous learning, solving practical problems, and explor
 <tr>
 <td width="50%" valign="top">
 
+### 🏢 PECCI HRIS
+
+**HRIS Payroll Module**
+[![Demo](https://img.shields.io/badge/Demo-Live-E8B4C8?style=flat-square&logo=googlechrome&logoColor=white)](https://hris-module.runasp.net/)
+
+`2026` · Project Lead & Developer
+
+**Tech:** C# · React/JavaScript · SQL Server
+
+A payroll module built from scratch during my IT internship (internal system, so sample public repo only).
+
+- Led a four-member intern team.
+- Translated business requirements into system features.
+- Developed and tested payroll module features.
+- Supported deployment and maintenance.
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔎 iVisit UST
 
 **Campus Entry & Security Monitoring System**
@@ -56,67 +75,10 @@ A capstone project developed with the UST Campus Safety & Security Office.
 - Gathered and validated stakeholder requirements.
 - Conducted QA across **200+ test cases**.
 - Maintained testing documentation and supported system reliability.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 PECCI HRIS
-
-**HRIS Payroll Module**
-
-`2026` · Project Lead & Developer
-
-**Tech:** C# · React/JavaScript · SQL Server
-
-A payroll module built from scratch during my IT internship (internal system, so sample public repo only).
-
-- Led a four-member intern team.
-- Translated business requirements into system features.
-- Developed and tested payroll module features.
-- Supported deployment and maintenance.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ DOS Coffee Connect
-
-**Discover Delight Online**
-
-`2025` · Project Manager
-
-**Tech:** PHP · JavaScript · SQL · HTML/CSS
-
-A role-based café management web application built for a Software Engineering project.
-
-- Coordinated an eight-member team.
-- Translated business requirements into system features.
-- Managed planning, assignments, and milestones.
-- Oversaw testing, QA, and documentation.
-
-</td>
-<td width="50%" valign="top">
-
-### ♻️ Trash to Treasure
-
-**Waste Management & Upcycling Platform**
-
-`2024` · Developer
-
-**Tech:** JavaScript · Node.js · MongoDB
-
-A web-based platform focused on waste management and upcycling.
-
-- Developed frontend and backend features.
-- Designed database interactions and integrated backend services.
-- Performed system testing, debugging, and enhancements.
-
+  
 </td>
 </tr>
 </table>
-
-> 🔗 Demo links and screenshots coming soon.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
@@ -193,6 +155,8 @@ Requirements Gathering · Functional & System Testing · UAT · Technical Docume
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💌 Let's Connect
 
