@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BC9B2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emily-etea)
 [![Email](https://img.shields.io/badge/Email-Contact-E8B4C8?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:emilyetea@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-EmilyEtea-C1B5DC?style=flat-square&logo=github&logoColor=white)](https://github.com/EmilyEtea)
-[![Portfolio](https://img.shields.io/badge/Portfolio-emilyetea.github.io-9BC9B2?style=flat-square&logo=githubpages&logoColor=white)](https://emilyetea.github.io)
 
 </div>
 
@@ -165,11 +164,9 @@ Requirements Gathering · Functional & System Testing · UAT · Technical Docume
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BC9B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emily-etea)
 [![Email](https://img.shields.io/badge/Email-Contact-E8B4C8?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:emilyetea@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-EmilyEtea-C1B5DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmilyEtea)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9BC9B2?style=for-the-badge&logo=githubpages&logoColor=white)](https://emilyetea.github.io)
 
 <sub>Building, learning, and growing one project at a time. 🌸</sub>
 
 </div>
-
 <!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
