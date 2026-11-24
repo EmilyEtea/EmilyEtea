@@ -1,5 +1,8 @@
+<!-- Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8B4C8,C1B5DC,9BC9B2&height=220&section=header&text=Emily%20Etea&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20Graduate%20%7C%20Builder%20%7C%20Learner&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+
 <div align="center">
- 
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=E8B4C8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Emily+Etea!+%F0%9F%91%8B;IT+Graduate+%7C+UST+'26;Project+Coordination;QA+%26+Documentation;Admin+%26+Operations;Web+Development" alt="Typing SVG"/>
 
 **IT Graduate | Project Coordination | QA & Documentation | Admin & Operations | Web Development**
@@ -11,9 +14,9 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
-## About Me
+## 🌸 About Me
 
 I'm an **Information Technology graduate from the University of Santo Tomas**, majoring in Web and Mobile Development (Dean's Lister, AY 2025–2026), with hands-on experience in enterprise systems support, software testing, and project coordination.
 
@@ -21,9 +24,9 @@ My experience includes leading project teams, gathering stakeholder requirements
 
 I'm passionate about continuous learning, solving practical problems, and exploring opportunities across IT and technology.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
-## Experience
+## 💼 Experience
 
 ### IT Support Intern | PECCI Multipurpose Cooperative
 `February 2026 – June 2026` · Makati City, Philippines
@@ -34,9 +37,9 @@ I'm passionate about continuous learning, solving practical problems, and explor
 - Conducted structured functional testing and supported implementation, documentation, and maintenance.
 - Provided end-user technical support and troubleshooting for hardware, software, and system-related issues.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
-## Featured Projects
+## 🗂️ Featured Projects
 
 <table>
 <tr>
@@ -118,49 +121,58 @@ A web-based platform focused on waste management and upcycling.
 
 > 🔗 Demo links and screenshots coming soon.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Languages & Frameworks**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-9BC9B2?style=flat-square&logo=javascript&logoColor=26352D)
-![PHP](https://img.shields.io/badge/PHP-E8B4C8?style=flat-square&logo=php&logoColor=4B3040)
-![C#](https://img.shields.io/badge/C%23-C1B5DC?style=flat-square&logo=csharp&logoColor=38304B)
-![Java](https://img.shields.io/badge/Java-9BC9B2?style=flat-square&logo=openjdk&logoColor=26352D)
-![React](https://img.shields.io/badge/React-E8B4C8?style=flat-square&logo=react&logoColor=4B3040)
-![Node.js](https://img.shields.io/badge/Node.js-C1B5DC?style=flat-square&logo=nodedotjs&logoColor=38304B)
+[![My Skills](https://skillicons.dev/icons?i=js,php,cs,java,react,nodejs&theme=light)](https://skillicons.dev)
 
-**Databases & APIs**
+**Databases & Tools & Platforms**
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-9BC9B2?style=flat-square&logo=microsoftsqlserver&logoColor=26352D)
-![MongoDB](https://img.shields.io/badge/MongoDB-E8B4C8?style=flat-square&logo=mongodb&logoColor=4B3040)
-![REST APIs](https://img.shields.io/badge/REST_APIs-C1B5DC?style=flat-square)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-9BC9B2?style=flat-square&logo=git&logoColor=26352D)
-![GitHub](https://img.shields.io/badge/GitHub-E8B4C8?style=flat-square&logo=github&logoColor=4B3040)
-![VS Code](https://img.shields.io/badge/VS_Code-C1B5DC?style=flat-square&logo=visualstudiocode&logoColor=38304B)
-![Figma](https://img.shields.io/badge/Figma-9BC9B2?style=flat-square&logo=figma&logoColor=26352D)
-![Postman](https://img.shields.io/badge/Postman-E8B4C8?style=flat-square&logo=postman&logoColor=4B3040)
-![Selenium](https://img.shields.io/badge/Selenium-C1B5DC?style=flat-square&logo=selenium&logoColor=38304B)
-![Jira](https://img.shields.io/badge/Jira-9BC9B2?style=flat-square&logo=jira&logoColor=26352D)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,figma,postman,selenium&theme=light)](https://skillicons.dev)
 
 **Professional Skills**
 
 Requirements Gathering · Functional & System Testing · UAT · Technical Documentation · Agile/Scrum · Project Coordination · Stakeholder Communication
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
-## Education
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EmilyEtea&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8B4C8&icon_color=9BC9B2&text_color=C1B5DC&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyEtea&layout=compact&hide_border=true&bg_color=00000000&title_color=E8B4C8&text_color=C1B5DC" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=EmilyEtea&hide_border=true&background=00000000&ring=E8B4C8&fire=C1B5DC&currStreakLabel=9BC9B2&sideLabels=C1B5DC&dates=9BC9B2&currStreakNum=E8B4C8&sideNums=C1B5DC" height="165"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EmilyEtea/EmilyEtea/output/github-snake.svg" alt="Snake animation"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
+
+## 🎓 Education
 
 **University of Santo Tomas** · BS Information Technology, Web and Mobile Development
 `August 2022 – June 2026` · Dean's Lister, AY 2025–2026
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
-## Certifications
+## 🏅 Certifications
 
 | Year | Certification | Issuer |
 |:---:|---|---|
@@ -170,9 +182,9 @@ Requirements Gathering · Functional & System Testing · UAT · Technical Docume
 | 2025 | CCNA: Enterprise Networking, Security, and Automation | Cisco |
 | 2024 | CCNA: Switching, Routing, and Wireless Essentials | Cisco |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
-## Beyond Tech
+## 🌿 Beyond Tech
 
 **Leadership & Affiliations**
 
@@ -181,16 +193,22 @@ Requirements Gathering · Functional & System Testing · UAT · Technical Docume
 - **Class Secretary**, College of Information and Computing Sciences, UST (2022–2023)
 - Member: UST Golden Corps of Cadets · Bosconian Thomasian Youth Movement · Teatro Tomasino
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e9-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-### Let's Connect
+### 💌 Let's Connect
 
 **Open to entry-level opportunities in IT and technology.**
 
-[LinkedIn](https://linkedin.com/in/emily-etea) · [Email](mailto:emilyetea@hotmail.com) · [GitHub](https://github.com/EmilyEtea) · [Portfolio](https://emilyetea.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9BC9B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emily-etea)
+[![Email](https://img.shields.io/badge/Email-Contact-E8B4C8?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:emilyetea@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-EmilyEtea-C1B5DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmilyEtea)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9BC9B2?style=for-the-badge&logo=githubpages&logoColor=white)](https://emilyetea.github.io)
 
-<sub>Building, learning, and growing one project at a time.</sub>
+<sub>Building, learning, and growing one project at a time. 🌸</sub>
 
 </div>
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9BC9B2,C1B5DC,E8B4C8&height=120&section=footer" width="100%"/>
